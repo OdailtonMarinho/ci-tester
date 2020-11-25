@@ -1,0 +1,10 @@
+lasqueira_support(int * speed, int support_senssitivity, string * FOE)
+{
+	codiguinho;
+	marotancia;
+	muitas coisas padrão;
+	ifs;
+	elses;
+	fores;
+	return;
+}
